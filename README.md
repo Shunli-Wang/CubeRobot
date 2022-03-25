@@ -1,7 +1,7 @@
 # CubeRobot
 In 2017, Zeguang Chang and I built a cube robot using DSP and STM32. We open source all the code of CubeRobot in this repository.   
 You can find the complete restore process on [BiliBili](https://www.bilibili.com/video/BV1v3411p71n/).  
-<img src=./Others/img.png height=40% />
+<img src=./Others/img.png height=512 />
 
 - In terms of hardware, we adopt a four-axis structure, with four mechanical arms to complete the blessing and rotation of the cube.
 - In terms of software, the robot consists of two subsystems: sensing system and control system.  
