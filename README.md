@@ -24,4 +24,4 @@ In the `CubeRobot_STM32` directory, we release all code of the control system. T
 
 ## Acknowledge
 This project was completed by me and Zeguang Chang. Thank him for working side by side all the time. 
-I also thank for joining the Linear Motor Laboratory leaded by Jiwen Zhao during my undergraduate period, where I spent four years of unforgettable time.
+I also thank for joining the Linear Motor Laboratory leaded by Jiwen Zhao during my undergraduate period in Anhui University, where I spent unforgettable and perfect four years.
