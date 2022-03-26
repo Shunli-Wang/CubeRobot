@@ -18,7 +18,7 @@ In the `CubeRobot_DSP` directory, we release all code of the sensing system. The
 - The `src/main_camera.c` performs communication with STM32 and basic logic of trigger the solving action.  
 
 As we developed this project in [CCS5.5 IDE environment](https://blog.csdn.net/u010398722/article/details/78298948), we have also provide the original CCS project files in `others/CubeRobot_CCS-5.5_Project.zip`.  
-Note that the solving algorithm of the Rubik's Cube is borrowed from [Thistlethwaite's 52-move algorithm](https://www.jaapsch.net/puzzles/thistle.htm). We thank Jaap Scherphuis for his wonderful realization.
+Note that the solving algorithm of the Rubik's Cube is borrowed from [Thistlethwaite's 52-move algorithm](https://www.jaapsch.net/puzzles/thistle.htm). We thank Jaap Scherphuis for his wonderful realization. Please refer to `others/Thistlethwaite's algorithm.cpp` for the original C++ code.
 
 ## STM32 (Control System)
 In the `CubeRobot_STM32` directory, we release all code of the control system. These code aims to control the coordination of 4 stepping motors and 4 steering gears. The steering gear controls the forward and backward movement of the mechanical arm, and the stepping motor controls the rotation angle.
